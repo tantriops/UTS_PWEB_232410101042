@@ -1,6 +1,5 @@
 🎨 ColorMatch - Sistem Manajemen Kosmetik Berbasis Personal Color
-ColorMatch adalah aplikasi web berbasis Laravel yang membantu pengguna dalam memilih produk kosmetik berdasarkan analisis personal color (Warm Spring, Warm Autumn, Cool Summer, Cool Winter). Sistem ini dirancang dengan antarmuka yang estetis dan mudah digunakan.
-
+ColorMatch adalah aplikasi web berbasis Laravel yang berisi informasi rekomendasi produk kosmetik berdasarkan personal color analisis (Warm Spring, Warm Autumn, Cool Summer, Cool Winter). 
 🛠 Fitur Utama
 ✅ Autentikasi Login (username & password)
 
@@ -8,9 +7,7 @@ ColorMatch adalah aplikasi web berbasis Laravel yang membantu pengguna dalam mem
 
 📦 Pengelolaan Produk berdasarkan kategori personal color
 
-🌈 Rekomendasi Warna untuk gaya dan branding
-
-📱 Responsif dan dibangun menggunakan Tailwind CSS
+🌈 Profil yang berisi informasi personal user
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
